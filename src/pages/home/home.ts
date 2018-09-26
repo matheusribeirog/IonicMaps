@@ -26,6 +26,12 @@ export class HomePage {
     endereco: 'Endereço2',
     latitude: -15.574358,
     longitude: -56.0880802
+  },
+  {
+    nome: 'Estabelecimento3',
+    endereco: 'Endereço2',
+    latitude: -15.574378,
+    longitude: -56.0800802
   }];
 
 
