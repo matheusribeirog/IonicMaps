@@ -1,6 +1,7 @@
 # ionic3-googleMaps
 "Às Vezes, confiar que tudo está acontecento por algum motivo, é muito mais poderoso do que saber qual é o motivo." - kabbalah Centre
 
+
 A simple example showing its location and some points around it
 
 
